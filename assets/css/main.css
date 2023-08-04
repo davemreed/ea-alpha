@@ -2883,7 +2883,7 @@
 /* Header */
 
 	#page-wrapper {
-		padding-top: 3em;
+		padding-top: 0;
 	}
 
 	body.landing #page-wrapper {
