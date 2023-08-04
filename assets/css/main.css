@@ -3249,7 +3249,7 @@
 				padding: 1em 0 1.25em 0;
 			}
 
-	body.landing #main, #main.container {
+	body.landing #main, body.page-ngp-multistep #main {
 		margin-top: -9em;
 	}
 
