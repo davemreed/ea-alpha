@@ -3249,7 +3249,7 @@
 				padding: 1em 0 1.25em 0;
 			}
 
-	body.landing #main {
+	body.landing #main, #main.container {
 		margin-top: -9em;
 	}
 
