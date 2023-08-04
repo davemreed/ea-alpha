@@ -3896,3 +3896,20 @@
 			}
 
 	}
+/* Here's some styles related specifically to the NGP Contribution Form */
+ 
+.at-title {
+  display: none; /*This style is optional. NGP Forms come with a title. I add the title in HTML so I find hide this one... up to you. */
+}
+
+.at form .label-amount input[type="radio"]:checked + a {
+  background-color: #0364aa !important; /* Here, we're changing the button color to ours. */
+  border-color: #000000 !important; /* Here, we're changing the button color to ours. */
+}
+
+.at form .label-amount > a {
+  background-color: #0364aa !important; /* Here, we're changing the link color to ours. */
+}
+
+.at-markup FastAction {
+	background: #F1F3F5;}
