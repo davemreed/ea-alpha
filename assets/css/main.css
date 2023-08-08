@@ -3366,23 +3366,23 @@
 			color: rgba(255, 255, 255, 0.75) !important;
 		}
 
-/* Wide */
+/* Wide
 
 	@media screen and (max-width: 1680px) {
 
-		/* Basic */
+		/* Basic
 
 			body, input, select, textarea {
 				font-size: 13pt;
 			}
 
-		/* Banner */
+		/* Banner
 
 			#banner {
 				padding: 10em 8em 18em 8em;
 			}
 
-	}
+	} */
 
 /* Normal */
 
