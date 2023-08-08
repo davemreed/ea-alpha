@@ -3664,7 +3664,7 @@
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 13pt;
 			}
 
 			h2 {
@@ -3738,7 +3738,7 @@
 		/* Banner */
 
 			#banner {
-				padding: 4em 0;
+				padding: 4em 1em 6em 1em;
 			}
 
 				#banner h2 {
